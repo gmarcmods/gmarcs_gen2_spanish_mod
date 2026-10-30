@@ -1,6 +1,6 @@
-# Español original — Oro, Plata y Cristal (1.1.1)
+# Gmarc's Gen 2 Spanish — Oro, Plata y Cristal (1.1.2)
 
-Install the release ZIP (**GEN2_ES-1.1.1.zip**) through the gen1recomp mod importer. Enable GEN2_ES
+Install the release ZIP (**GEN2_ES-1.1.2.zip**) through the gen1recomp mod importer. Enable GEN2_ES
 for Gold, Silver and Crystal. Disable/remove the older GOLD_ES and SILVER_ES
 mods; the manifest declares conflicts to prevent mixed translations.
 

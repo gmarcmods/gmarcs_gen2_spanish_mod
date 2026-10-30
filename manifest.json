@@ -1,7 +1,7 @@
 {
   "id": "GEN2_ES",
-  "name": "Pok\u00e9mon Oro, Plata y Cristal \u2014 Espa\u00f1ol original",
-  "version": "1.1.1",
+  "name": "Gmarc's Gen 2 Spanish \u2014 Oro, Plata y Cristal",
+  "version": "1.1.2",
   "api": 2,
   "entry": "main.lua",
   "games": [
