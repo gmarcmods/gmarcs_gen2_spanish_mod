@@ -1,0 +1,31 @@
+{
+  "id": "GEN2_ES",
+  "name": "Pok\u00e9mon Oro, Plata y Cristal \u2014 Espa\u00f1ol original",
+  "version": "1.1.1",
+  "api": 2,
+  "entry": "main.lua",
+  "games": [
+    "gold",
+    "silver",
+    "crystal"
+  ],
+  "profile": "content",
+  "category": "TRANSLATION",
+  "priority": 200,
+  "permissions": [
+    "engine_internals"
+  ],
+  "affects_link": true,
+  "assets_transforms": "font_transforms.lua",
+  "description": "Original Spanish text for Gold, Silver and Crystal. Selects the matching edition automatically.",
+  "conflicts": [
+    "GOLD_ES",
+    "SILVER_ES",
+    "CRYSTAL_ES"
+  ],
+  "language": true,
+  "optional_dependencies": [
+    "gmarcs_gen2_celebi_time_travel"
+  ],
+  "github": "gmarcmods/gmarcs_gen2_spanish_mod"
+}

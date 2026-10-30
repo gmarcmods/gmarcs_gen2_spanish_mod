@@ -1,0 +1,21 @@
+-- Copied from the original Spanish cartridge; see provenance.json.
+return {
+  ["BUG"] = "BICHO",
+  ["CURSE_TYPE"] = "¿¿??",
+  ["DARK"] = "SINIEST.",
+  ["DRAGON"] = "DRAGÓN",
+  ["ELECTRIC"] = "ELÉCTRIC",
+  ["FIGHTING"] = "LUCHA",
+  ["FIRE"] = "FUEGO",
+  ["FLYING"] = "VOLADOR",
+  ["GHOST"] = "FANTASMA",
+  ["GRASS"] = "PLANTA",
+  ["GROUND"] = "TIERRA",
+  ["ICE"] = "HIELO",
+  ["NORMAL"] = "NORMAL",
+  ["POISON"] = "VENENO",
+  ["PSYCHIC_TYPE"] = "PSÍQUICO",
+  ["ROCK"] = "ROCA",
+  ["STEEL"] = "ACERO",
+  ["WATER"] = "AGUA",
+}
